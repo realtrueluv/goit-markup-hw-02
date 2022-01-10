@@ -1,0 +1,210 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    color :black
+}
+
+.linki {
+    color: #212121; /* Цвет обычной ссылки */ 
+    text-decoration: none; /* Убираем подчёркивание у ссылок */
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 1;
+   }
+.linki:hover {
+    color: #2196F3; /* Цвет ссылки при наведении */ 
+    }
+
+.telmail,
+.telmail text {
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 1;
+    letter-spacing: 0.02em;
+    text-decoration: none;
+    color: #757575;
+}
+
+.tocki {
+    list-style-type: none;
+}
+
+.webstudio {
+    text-decoration: none;    
+    font-weight: bold;
+    font-size: 26px;
+    line-height: 1;
+    letter-spacing: 0.03em;
+    color: #2196F3;
+}
+
+.studio {
+    color: black;
+}
+
+.navigat {
+    margin-left: 93px;
+}
+
+.text-razmer {
+    font-size: 14px;
+    line-height: 1;
+    letter-spacing: 0.02em;
+    color: #212121;
+}
+
+.text-button {
+    width: 128px;
+    height: 38px;
+    left: 576px;
+    top: 174px;
+    background: #F5F4FA;
+    border-radius: 4px;
+    font-size: 16px;
+    line-height: 2;
+    text-align: center;
+    letter-spacing: 0.03em;
+    color: #212121;
+}
+.text-button:hover {
+    color: white;
+    background:#2196F3 ;
+}
+
+
+.zag {
+    font-size: 18px;
+    line-height: 2;
+    letter-spacing: 0.06em;
+    color: #212121;
+}
+
+.opis {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 2;
+    letter-spacing: 0.03em;
+    color: #757575;
+}
+
+.mid {
+    text-align: center;
+    align-items: center;
+}
+
+.box {
+    background: #FFFFFF;
+    border: 1px solid #EEEEEE;
+    box-sizing: border-box;
+    width: 370px;
+    height: 404px;
+    left: 215px;
+    top: 696px;
+}
+
+.adress {
+    font-size: 14px;
+    line-height: 24px;
+    letter-spacing: 0.03em;
+    text-decoration: none;
+    color: #FFFFFF;
+}
+
+footer {
+    width: 1600px;
+    height: 252px;
+    left: 0px;
+    top: 1628px;
+    background: #2F303A;
+}
+
+.studio-white {
+    color: white;
+}
+
+.telmail-futer {
+    font-size: 14px;
+    line-height: 1;
+    letter-spacing: 0.03em;
+    color: rgba(255, 255, 255, 0.6);
+    text-decoration: none;
+}
+
+.fon-knopki {
+    width: 1600px;
+    height: 600px;
+    left: 0px;
+    top: 80px;
+    background: #2F303A;
+}
+
+.text-knopki {
+    font-weight: 900;
+    font-size: 44px;
+    line-height: 1;
+    text-align: center;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    color: #FFFFFF;
+}
+
+.button-index {
+    background: #2196F3;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
+    border-radius: 4px;
+    font-size: 16px;
+    line-height: 2;
+    letter-spacing: 0.06em;
+    color: #FFFFFF;
+    width: 200px;
+    height: 50px;
+}
+
+.text-plus {
+    font-size: 14px;
+    line-height: 1;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #212121;
+}
+
+.text-plus-opis {
+    font-size: 14px;
+    line-height: 1;
+    letter-spacing: 0.03em;
+    color: #757575;
+}
+
+.text-zanimaemsya {
+    font-size: 36px;
+    line-height: 1px;
+    text-align: center;
+    letter-spacing: 0.03em;
+    color: #212121;
+}
+
+.name {
+    font-size: 16px;
+    line-height: 1;
+    text-align: center;
+    letter-spacing: 0.03em;
+    color: #212121;
+}
+
+.work {
+    font-size: 16px;
+    line-height: 1;
+    text-align: center;
+    letter-spacing: 0.03em;
+    color: #757575;
+}
+
+.box-1 {
+    width: 270px;
+    height: 368px;
+    left: 215px;
+    top: 1635px;
+    background: #FFFFFF;
+    box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.12), 0px 1px 1px rgba(0, 0, 0, 0.14), 0px 2px 1px rgba(0, 0, 0, 0.2);
+    border-radius: 0px 0px 4px 4px;
+}
