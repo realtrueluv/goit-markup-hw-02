@@ -46,9 +46,12 @@ body {
 }
 
 .text-razmer {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
     font-size: 14px;
     line-height: 1;
-    letter-spacing: 0.02em;
+    letter-spacing: 0.02em;    
     color: #212121;
 }
 
@@ -212,6 +215,10 @@ footer {
 }
 
 /* ховеры */
+.telmail-futer:hover {
+    color: #2196F3;    
+}
+
 .adress:hover {
     color: #2196F3;
 }
