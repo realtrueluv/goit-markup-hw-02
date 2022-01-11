@@ -6,9 +6,6 @@ body {
 .linki {
     color: #212121; /* Цвет обычной ссылки */ 
     text-decoration: none; /* Убираем подчёркивание у ссылок */
-    font-weight: 500;
-    font-size: 14px;
-    line-height: 1;
    }
 .linki:hover {
     color: #2196F3; /* Цвет ссылки при наведении */ 
@@ -46,7 +43,7 @@ body {
 }
 
 .text-razmer {
-    font-family: Roboto;
+    font-family: Montserrat;
     font-style: normal;
     font-weight: 500;
     font-size: 14px;
